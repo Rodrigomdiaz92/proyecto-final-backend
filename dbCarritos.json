@@ -1,0 +1,155 @@
+[
+  {
+    "timestamp": 1661909370821,
+    "productos": [
+      {
+        "title": "Regla",
+        "price": "200",
+        "thumbnail": "http://regla.com",
+        "descripcion": "Esta es una regla",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "1"
+      },
+      {
+        "title": "Escuadra",
+        "price": "190",
+        "thumbnail": "http://escuadra.com",
+        "descripcion": "Esta es una escuadra",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "2"
+      },
+      {
+        "title": "Lapiz",
+        "price": "180",
+        "thumbnail": "http://lapiz.com",
+        "descripcion": "Este es un lapiz",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "3"
+      },
+      {
+        "title": "Goma",
+        "price": "170",
+        "thumbnail": "http://goma.com",
+        "descripcion": "Esta es una goma",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "4"
+      },
+      {
+        "title": "Transportador",
+        "price": "140",
+        "thumbnail": "http://transportador.com",
+        "descripcion": "Este es el un transportador",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "7"
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "timestamp": 1661909419205,
+    "productos": [
+      {
+        "title": "Lapicera",
+        "price": "150",
+        "thumbnail": "http://lapicera.com",
+        "descripcion": "Esto es una lapicera",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "6"
+      },
+      {
+        "title": "Regla",
+        "price": "200",
+        "thumbnail": "http://regla.com",
+        "descripcion": "Esta es una regla",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "1"
+      },
+      {
+        "title": "Lapiz",
+        "price": "180",
+        "thumbnail": "http://lapiz.com",
+        "descripcion": "Este es un lapiz",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "3"
+      },
+      {
+        "title": "Regla",
+        "price": "200",
+        "thumbnail": "http://regla.com",
+        "descripcion": "Esta es una regla",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "1"
+      },
+      {
+        "title": "Regla",
+        "price": "200",
+        "thumbnail": "http://regla.com",
+        "descripcion": "Esta es una regla",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "1"
+      },
+      {
+        "title": "Transportador",
+        "price": "140",
+        "thumbnail": "http://transportador.com",
+        "descripcion": "Este es el un transportador",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "7"
+      },
+      {
+        "title": "Goma",
+        "price": "170",
+        "thumbnail": "http://goma.com",
+        "descripcion": "Esta es una goma",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "4"
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "timestamp": 1661979997211,
+    "productos": [
+      {
+        "title": "Transportador",
+        "price": "140",
+        "thumbnail": "http://transportador.com",
+        "descripcion": "Este es el un transportador",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "7"
+      },
+      {
+        "title": "Escuadra",
+        "price": "190",
+        "thumbnail": "http://escuadra.com",
+        "descripcion": "Esta es una escuadra",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "2"
+      },
+      {
+        "title": "Transportador",
+        "price": "140",
+        "thumbnail": "http://transportador.com",
+        "descripcion": "Este es el un transportador",
+        "stock": "50",
+        "timestamp": 1661979982029,
+        "id": "7"
+      }
+    ],
+    "id": "3"
+  }
+]
